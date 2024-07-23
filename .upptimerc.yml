@@ -13,6 +13,10 @@ sites:
     url: https://git.norsys.fr
   - name: SiteInterne
     url: $SITE_CLIENT1
+  - name: merakiEnnevelin
+    check: "tcp-ping"
+    url: ennevelin-wired-hppnhzqhtq.dynamic-m.com
+    port: 80
   - name: Norsys_DNS_Primaire
     check: "tcp-ping"
     url: ns1.norsys.fr
