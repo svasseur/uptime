@@ -58,18 +58,20 @@
     "url": "https://git.norsys.fr",
     "icon": "https://icons.duckduckgo.com/ip3/git.norsys.fr.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1180,
-    "timeDay": 890,
-    "timeWeek": 1250,
-    "timeMonth": 1180,
-    "timeYear": 1180,
-    "dailyMinutesDown": {}
+    "time": 1159,
+    "timeDay": 785,
+    "timeWeek": 1178,
+    "timeMonth": 1159,
+    "timeYear": 1159,
+    "dailyMinutesDown": {
+      "2024-08-13": 0
+    }
   },
   {
     "name": "SiteInterne",
