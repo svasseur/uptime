@@ -4,9 +4,9 @@
     "url": "https://www.norsys.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.norsys.fr.ico",
     "slug": "norsys",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 1466,
     "timeMonth": 1387,
     "timeYear": 1387,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-16": 0
+    }
   },
   {
     "name": "Daily",
     "url": "https://norsys-daily.norsys.fr",
     "icon": "https://icons.duckduckgo.com/ip3/norsys-daily.norsys.fr.ico",
     "slug": "daily",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 1103,
     "timeMonth": 1049,
     "timeYear": 1049,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-16": 0
+    }
   },
   {
     "name": "Permaentreprise",
     "url": "https://www.permaentreprise.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.permaentreprise.fr.ico",
     "slug": "permaentreprise",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,25 +55,28 @@
     "timeWeek": 4498,
     "timeMonth": 4485,
     "timeYear": 4485,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-16": 0
+    }
   },
   {
     "name": "git",
     "url": "https://git.norsys.fr",
     "icon": "https://icons.duckduckgo.com/ip3/git.norsys.fr.ico",
     "slug": "git",
-    "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 1146,
     "timeDay": 1088,
     "timeWeek": 1033,
     "timeMonth": 1146,
     "timeYear": 1146,
     "dailyMinutesDown": {
+      "2024-08-16": 0,
       "2024-08-13": 26
     }
   },
@@ -96,9 +103,9 @@
     "url": "ennevelin-wired-hppnhzqhtq.dynamic-m.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "meraki-ennevelin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +114,9 @@
     "timeWeek": 138,
     "timeMonth": 132,
     "timeYear": 132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-16": 0
+    }
   },
   {
     "name": "Norsys_DNS_Primaire",
