@@ -90,11 +90,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-interne",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "99.75%",
+    "uptimeYear": "99.76%",
     "time": 1177,
     "timeDay": 967,
     "timeWeek": 988,
@@ -148,9 +148,9 @@
     "url": "ns2.norsys.fr",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "norsys-dns-secondaire",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -159,6 +159,8 @@
     "timeWeek": 104,
     "timeMonth": 121,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-29": 0
+    }
   }
 ]
