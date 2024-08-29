@@ -68,11 +68,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/git.norsys.fr.ico",
     "slug": "git",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.83%",
     "time": 1097,
     "timeDay": 765,
     "timeWeek": 909,
@@ -148,19 +148,19 @@
     "url": "ns2.norsys.fr",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "norsys-dns-secondaire",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 123,
     "timeDay": 131,
     "timeWeek": 110,
     "timeMonth": 122,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2024-08-29": 5
+      "2024-08-29": 0
     }
   }
 ]
