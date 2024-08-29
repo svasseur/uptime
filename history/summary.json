@@ -148,19 +148,19 @@
     "url": "ns2.norsys.fr",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "norsys-dns-secondaire",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 123,
-    "timeDay": 126,
-    "timeWeek": 112,
-    "timeMonth": 122,
-    "timeYear": 123,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 122,
+    "timeDay": 118,
+    "timeWeek": 110,
+    "timeMonth": 121,
+    "timeYear": 122,
     "dailyMinutesDown": {
-      "2024-08-29": 0
+      "2024-08-29": 18
     }
   }
 ]
