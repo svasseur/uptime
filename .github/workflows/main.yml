@@ -1,3 +1,17 @@
-              - name: Post Adaptive Card
-                uses: davidwengier/PostAdaptiveCard@v1.0.4
-            
+name: Post issues to Teams
+
+on:
+  pull_request:
+    types: [opened, reopened]
+  issues:
+    types: [opened, reopened]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Notify
+        uses: davidwengier/PostAdaptiveCard@v1.0.4
+        with:
+          webhook-uri: <insert your webhook URI here>
