@@ -1,10 +1,8 @@
 name: Post issues to Teams
 
 on:
-  pull_request:
-    types: [opened, reopened]
   issues:
-    types: [opened, reopened]
+    types: [opened, closed]
 
 jobs:
   notify:
