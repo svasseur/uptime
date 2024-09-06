@@ -1,7 +1,7 @@
 url: https://git.norsys.fr
-status: up
-code: 200
-responseTime: 849
-lastUpdated: 2024-09-05T23:07:57.236Z
+status: down
+code: 502
+responseTime: 774
+lastUpdated: 2024-09-06T15:36:32.301Z
 startTime: 2024-07-23T12:44:01.338Z
 generator: Upptime <https://github.com/upptime/upptime>
