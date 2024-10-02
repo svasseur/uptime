@@ -46,9 +46,9 @@
     "url": "https://www.permaentreprise.fr",
     "icon": "https://icons.duckduckgo.com/ip3/www.permaentreprise.fr.ico",
     "slug": "permaentreprise",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -58,6 +58,7 @@
     "timeMonth": 4051,
     "timeYear": 4282,
     "dailyMinutesDown": {
+      "2024-10-02": 0,
       "2024-08-20": 31,
       "2024-08-16": 21
     }
@@ -151,11 +152,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "norsys-dns-secondaire",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.66%",
+    "uptimeYear": "98.67%",
     "time": 116,
     "timeDay": 88,
     "timeWeek": 110,
